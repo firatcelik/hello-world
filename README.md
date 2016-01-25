@@ -1,2 +1,2 @@
 # hello-world
-My first gir repository: Hello-world example
+My first git repository: Hello-world example
